@@ -2,12 +2,12 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    width: 100vw;
 }
 body, html{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     position: relative;
     height: 100%;
-    width: 100%;
     min-width: 350px;
     max-width: 1200px;
 }
@@ -34,5 +34,4 @@ body, html{
 .alinhar{
     display: flex;
     justify-content: center;
-
 }
